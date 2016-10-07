@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FirstProject</string>
+
+
+    <string name="btn_1">POPULAR MOVIES</string>
+    <string name="btn_2">STOCK HAWK</string>
+    <string name="btn_3">BUILD IT BIGGER</string>
+    <string name="btn_4">MAKE YOUR APP MATERIAL</string>
+    <string name="btn_5">GO UBIQUITOUS</string>
+    <string name="btn_6">CAPSTONE</string>
 </resources>
